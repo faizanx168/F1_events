@@ -1,0 +1,9 @@
+:root {
+  background-color: white;
+  font-family: Avenir, Helvetica, sans-serif;
+  color: black;
+}
+body {
+  background-image: url("/f1car.jpeg");
+  background-size: contain;
+}

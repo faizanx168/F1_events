@@ -1,0 +1,86 @@
+/* Detail Page CSS*/
+
+.event-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-container {
+  padding-left: 100px;
+  width: 40vw;
+}
+
+.image-container img {
+  width: 80%;
+}
+
+.event-details {
+  width: 45vw;
+}
+
+/* EventDetails.css */
+.EventDetails {
+  background-color: #f1f1f1;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.event-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.image-container {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.event-details {
+  text-align: center;
+}
+
+#name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+#date,
+#location,
+#time,
+#channel {
+  font-size: 16px;
+  color: #666;
+  margin: 5px 0;
+}
+
+@media (min-width: 768px) {
+  .event-info {
+    flex-direction: row;
+  }
+
+  .image-container {
+    margin-right: 20px;
+    margin-bottom: 0;
+  }
+
+  #image {
+    max-width: 400px;
+  }
+
+  .event-details {
+    text-align: left;
+  }
+}
