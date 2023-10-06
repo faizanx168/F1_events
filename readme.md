@@ -20,29 +20,18 @@ The following **required** functionality is completed:
 - [x] **Clicking on a Location shows a list of all items from the Events table that corresponds to that Location**
 - [x] **Each Location detail page should have its own unique URL**
 
-The following **optional** features are implemented:
 
-- [ ] An additional page shows all possible `Events` that the user can sort and filter by `Location`
-- [ ] `Events` display a countdown showing the time remaining before that event and appears with different formatting when the event has passed
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![ezgif com-optimize (1)](https://github.com/faizanx168/F1_events/assets/105330878/982be385-c6f5-4391-bde5-f54ba2d2c6ad)
 
-<img src='https://imgur.com/a/Fe13ZCF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ... GIF tool here
+GIF created with ScreenToGif
 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## License
 
